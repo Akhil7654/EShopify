@@ -1,0 +1,16 @@
+# Ignore virtual environment directory
+venv/
+
+# Ignore any compiled Python bytecode
+*.pyc
+
+# Ignore environment configuration files
+.env
+
+# Ignore frontend build artifacts
+/build
+
+# Ignore backend build artifacts (if applicable)
+/dist
+
+# Ignore any other temporary or generated files
